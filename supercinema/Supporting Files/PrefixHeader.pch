@@ -1,0 +1,79 @@
+//
+//  PrefixHeader.pch
+//  supercinema
+//
+//  Created by dust on 16/7/29.
+//
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "MovieModel.h"
+#import "Tool.h"
+#import "Macro.h"
+#import "MKNetWorkRequest.h"
+#import "JSONKit.h"
+#import "MkConfig.h"
+#import "UrlAddress.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "UIImage+GIF.h"
+#import "FVCustomAlertView.h"
+#import "AppDelegate.h"
+#import "MKPackJson.h"
+#import "JSONModel.h"
+#import "RequestResult.h"
+#import "YMCountMacro.h"
+#import "WXApi.h"
+#import "ImageOperation.h"
+#import <AlipaySDK/AlipaySDK.h>
+#import "MKNetWorkState.h"
+#import "NotifictionModel.h"
+#import "BroadcastView.h"
+#import "MkPullMessage.h"
+#import "MKEnum.h"
+#import "UIKit+AFNetworking.h"
+#import "MKNetWorkRequest.h"
+#import "NSData+Utils.h"
+#import "ShowTabBarViewController.h"
+#import "HideTabBarViewController.h"
+#import "PublishModel.h"
+#import "UpLoadModel.h"
+#import "ExAlertView.h"
+#import <CoreLocation/CoreLocation.h>
+#import "QRCodeReaderViewController.h"
+#import "FDActionSheet.h"
+#import "sqlDatabase.h"
+#import "ServiceActivity.h"
+#import "ServiceFeedback.h"
+#import "ServicesCinema.h"
+#import "ServicesMember.h"
+#import "ServicesMovie.h"
+#import "ServicesNotification.h"
+#import "ServicesOrder.h"
+#import "ServicesPay.h"
+#import "ServicesRedPacket.h"
+#import "ServicesSearch.h"
+#import "ServicesShowTime.h"
+#import "ServicesStills.h"
+#import "ServicesSystem.h"
+#import "ServicesUpload.h"
+#import "ServicesUser.h"
+#import "ServicesCardPack.h"
+#import "ServicesGoods.h"
+#import "CinemaModel.h"
+#import "MJRefresh.h"
+#import "ShowTimeViewController.h"
+#import "NSStringURLEncoding.h"
+#import "MyOrderViewController.h"
+#import "MyCardViewController.h"
+#import <UMMobClick/MobClick.h>
+#import "MoviePosterViewController.h"
+#import "LoadFailedView.h"
+#endif /* PrefixHeader_pch */

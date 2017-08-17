@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A63603C1B73FE305F412D20BCC094AA06F9CE1C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A63603C1B73FE305F412D20BCC094AA06F9CE1C4" : 0,
+    "C89E401B551F44DC0B1D23E1C7DF4D01D074D505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DCB1C840-16C6-4AB3-AE1E-BF92F073BC3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A63603C1B73FE305F412D20BCC094AA06F9CE1C4" : "movikr-ios-new\/",
+    "C89E401B551F44DC0B1D23E1C7DF4D01D074D505" : "movikr-ios-new\/supercinema\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "supercinema",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "supercinema.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.mapollo.com\/zhangjingfei\/movikr-ios-new.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A63603C1B73FE305F412D20BCC094AA06F9CE1C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.mapollo.com\/zhangjingfei\/movikr-ios-new.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C89E401B551F44DC0B1D23E1C7DF4D01D074D505"
+    }
+  ]
+}

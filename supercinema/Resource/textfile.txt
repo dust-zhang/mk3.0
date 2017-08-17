@@ -1,0 +1,62 @@
+{
+"respMsg": "成功",
+"respStatus": 1,
+"cityIncludeCinemas": [
+{
+"city": {
+"cityId": 1,
+"cityName": "北京"
+},
+"cinemaList": [
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+}
+]
+},
+{
+"city": {
+"cityId": 1,
+"cityName": "上海"
+},
+"cinemaList": [
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+},
+{
+"cinemaId": 111,
+"cinemaName": "cmts"
+}
+]
+}
+]
+}
